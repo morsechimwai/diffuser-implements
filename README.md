@@ -1,6 +1,8 @@
 # Diffuser Implements
 
-![alt text](images/tbone.png)
+<div align="center">
+  <img src="images/tbone.png" alt="Tbone Walker" width="200">
+</div>
 
 โปรเจกต์สำหรับสร้างภาพจากข้อความ (Text-to-Image) โดยใช้ Stable Diffusion XL (SDXL) ผ่านไลบรารี `diffusers` ของ Hugging Face
 
