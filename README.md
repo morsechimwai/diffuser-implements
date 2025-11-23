@@ -1,5 +1,7 @@
 # Diffuser Implements
 
+![alt text](images/tbone.png)
+
 โปรเจกต์สำหรับสร้างภาพจากข้อความ (Text-to-Image) โดยใช้ Stable Diffusion XL (SDXL) ผ่านไลบรารี `diffusers` ของ Hugging Face
 
 ## Features
