@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="images/tbone.png" alt="Tbone Walker" width="200">
-  <p>Tbone Walker</p>
+  <p>Prompt: Tbone Walker</p>
 </div>
 
 ## Features
